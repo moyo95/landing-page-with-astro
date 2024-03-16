@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "MoriCode webengineer"
+  content: "Web・DTP・3Dデザインの領域で活動しています。"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "ご依頼・お問合せ"
+    link: "#"
 
 # Features
 features:
