@@ -3,22 +3,22 @@
     {
       "name": "facebook",
       "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "link": "#"
     },
     {
       "name": "twitter",
       "icon": "FaTwitter",
-      "link": "https://twitter.com/"
+      "link": "#"
     },
     {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://www.github.com/"
+      "link": "#"
     },
     {
       "name": "linkedin",
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "#"
     }
   ]
 }
